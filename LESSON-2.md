@@ -5,14 +5,12 @@ note-creator.html
   <form class="row">
     <input
       type="text"
-      [(ngModel)]="newNote.title"
       name="newNoteTitle"
       placeholder="Title"
       class="col-xs-10 title"
     >
     <input
       type="text"
-      [(ngModel)]="newNote.value"
       name="newNoteValue"
       placeholder="Take a note..."
       class="col-xs-10"
@@ -64,7 +62,7 @@ color-picker.css
   position: relative;
 }
 .selector {
-  min-width: 120px;
+  min-width: 320px;
   border: 1px solid lightgrey;
   padding: 10px;
   background-color: #efefef;
