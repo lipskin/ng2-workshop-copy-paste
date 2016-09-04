@@ -47,6 +47,7 @@ note-creator.css
 ```
 
 color-picker.html
+-----------------
 ```html
 <div class="color-selector">
   <i class="material-icons icon">color_lens</i>
@@ -57,6 +58,7 @@ color-picker.html
 ```
 
 color-picker.css
+----------------
 ```css
 .color-selector {
   position: relative;
