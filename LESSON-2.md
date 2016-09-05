@@ -8,12 +8,14 @@ note-creator.html
       name="newNoteTitle"
       placeholder="Title"
       class="col-xs-10 title"
+      autocomplete="off
     >
     <input
       type="text"
       name="newNoteValue"
       placeholder="Take a note..."
       class="col-xs-10"
+      autocomplete="off"
     >
     <div class="actions col-xs-12 row between-xs">
       <button
