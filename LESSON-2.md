@@ -64,7 +64,7 @@ color-picker.css
   position: relative;
 }
 .selector {
-  min-width: 320px;
+  min-width: 185px;
   border: 1px solid lightgrey;
   padding: 10px;
   background-color: #efefef;
