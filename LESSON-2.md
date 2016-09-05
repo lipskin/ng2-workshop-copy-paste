@@ -91,7 +91,7 @@ color-picker.css
 ```
 
 Colors
-```json
+```
 [ 
   'rgb(255, 138, 128)', 
   'rgb(255, 209, 128)', 
